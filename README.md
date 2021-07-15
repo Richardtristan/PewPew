@@ -5,7 +5,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
-## Gitjub Page : https://richardtristan.github.io/ajax-simple-web-service-request/
+## Gitjub Page : https://richardtristan.github.io/PewPew/
  
 ## Participants au projet : 
  
